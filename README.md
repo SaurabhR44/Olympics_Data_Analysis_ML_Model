@@ -69,8 +69,3 @@ An interactive dashboard built using **Power BI** to visualize key trends in Oly
 
 📁 [Download Dashboard (.pbix)](./Olympics_Data_Analysis_dashboard.pbix)
 
----
-
-🖼️ Preview:
-![Dashboard Screenshot](./PowerBi_one.png)
----
