@@ -38,7 +38,7 @@ You can download or use directly in the notebook:
 
 ---
 
-## 📚 Jupyter Notebook
+## 📚 Google Colab
 
 All steps including cleaning, EDA, and ML are included in:
 
@@ -48,7 +48,7 @@ All steps including cleaning, EDA, and ML are included in:
 
 ## 🤖 ML Model: Medal Prediction
 
-- Features used:
+- Features used(Feature Space):
   - Sport, Discipline, Country, Gender
 - Target:
   - Whether the athlete won a medal or not (`No Medal` vs `Medal`)
