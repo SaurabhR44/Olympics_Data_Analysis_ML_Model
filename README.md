@@ -72,4 +72,4 @@ An interactive dashboard built using **Power BI** to visualize key trends in Oly
 ---
 
 🖼️ Preview:
-![Dashboard Screenshot](./dashboard_preview.png)
+![Dashboard Screenshot](./Screenshot2025-08-07221108.png)
