@@ -11,7 +11,7 @@ An end-to-end data analytics project on Olympic medal data.
 - Future Trends
 
 ## 📂 Dataset:
-[Olympics Dataset CSV (hosted on Google Drive)](https://drive.google.com/uc?id=1EXAMPLE123)
+[Olympics Dataset CSV (hosted on Google Drive)](https://drive.google.com/file/d/1EHMliUCEb8k6VhkpxK00oaY6GQtkwrhg/view?usp=drive_link)
 
 ## 🚀 Tech Stack:
 - Python (Pandas, Seaborn, Scikit-learn,plotly,matplotlib)
